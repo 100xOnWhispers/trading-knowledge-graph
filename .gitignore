@@ -1,0 +1,4 @@
+.kb/
+.venv/
+__pycache__/
+sources/
